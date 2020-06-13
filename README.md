@@ -3,6 +3,7 @@ A simple app for creating Weather Application using Android Studio
 
 # Screenshot
 
+![image](https://user-images.githubusercontent.com/13933391/84575307-cbf3b680-adc9-11ea-9f5d-d67cf75ce18d.png)
 
 # Features
 1. Uses https://openweathermap.org/ API for fetching current weather
