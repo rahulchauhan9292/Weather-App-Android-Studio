@@ -1,6 +1,9 @@
 # Weather App Android Studio
 A simple app for creating Weather Application using Android Studio
 
+# Screenshot
+
+
 # Features
 1. Uses https://openweathermap.org/ API for fetching current weather
 2. Detects users location and accordingly fetches the weather from the API and display it to the user.
